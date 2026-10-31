@@ -74,8 +74,7 @@ if gemini_key:
         api_key=gemini_key
     )
 
-
-MODEL_NAME = "gemini-3.6-flash"
+MODEL_NAME = "gemini-3.8-flash"
 
 
 # ============================================================
@@ -868,6 +867,6 @@ if __name__ == "__main__":
 
     app.run(
         host="127.0.0.1",
-        port=5000,
+        port=5001,
         debug=True
     )
