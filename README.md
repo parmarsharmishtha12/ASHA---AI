@@ -81,7 +81,7 @@ ASHA-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shaanvittomar/ASHA-AI.git
+git clone https://github.com/parmarsharmishtha12/ASHA---AI.git
 cd ASHA-AI
 ```
 
@@ -273,7 +273,7 @@ If someone is experiencing a mental health emergency or is in immediate danger, 
 BTech Student & Developer
 
 GitHub:  
-https://github.com/shaanvittomar
+https://github.com/parmarsharmishtha12
 
 ---
 
